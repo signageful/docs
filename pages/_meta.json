@@ -1,4 +1,28 @@
 {
+  "Landing": {
+    "title": "Webseite",
+    "type": "page",
+    "href": "https://signageful.com"
+  },
+  "signageful": {
+    "type": "menu",
+    "items": 
+        {
+            "agb": {
+                "title": "AGB",
+                "href": "https://www.signageful.com/terms-of-service"
+            },
+            "privacy": {
+                "title": "Datenschutz",
+                "href": "https://www.signageful.com/privacy"
+            },
+            "impressum": {
+                "title": "Impressum",
+                "href": "https://www.signageful.com/imprint"
+            }
+        }
+    
+  },
   "index": "Einführung",
   "---": {
     "type": "separator"
